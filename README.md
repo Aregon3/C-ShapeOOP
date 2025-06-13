@@ -1,12 +1,13 @@
-ПРОЕКТ ЗА СЪЗДАВАНЕ/РИСУВАНЕ НА ФИГУРИ, БАЗИРАН НА ОБЕКТНО-ОРИЕНТИРАНО ПРОГРАМИРАНЕ
+PROJECT FOR CREATING/DRAWING FIGURES BASED ON OBJECT-ORIENTED PROGRAMMING
 
-Този проект е за създаване/рисуване на фигури, които могат да бъдат премествани или изтривани. Като този проект използва концепцията за обектно-ориентирано програмиране (OOP), например полиморфизъм, наследяване, а език, използван за този проект, е C#, като за интерфейс се възползваме от WinFroms.
+This project is about creating/drawing shapes that can be moved or deleted. This project uses the concept of object-oriented programming (OOP),
+such as polymorphism, inheritance, and the language used for this project is C#, and we use WinFroms as the interface.
 
 FEATURES:
 
-1. 3 различни, оцветени фигури с непостояннен размер.
-2. Select функция за маркиране/избиране на фигура, която искаш да преместиш
-3. Undo/Redo функция
+1. 3 different, colored shapes with variable size.
+2. Select function to mark/select a shape you want to move
+3. Undo/Redo function
 4. WinFroms Interface
-5. Платно за рисуване
-6. Има бутон за запазване, за да запази платното в някакъв файл.
+5. Drawing canvas
+6. There is a save button to save the canvas to a file.
