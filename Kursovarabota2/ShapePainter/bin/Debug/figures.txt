@@ -1,0 +1,1 @@
+Stage_2.Shapes.Rect,461,154,211,266

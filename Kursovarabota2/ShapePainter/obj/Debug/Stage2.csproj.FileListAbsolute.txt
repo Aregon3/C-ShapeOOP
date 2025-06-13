@@ -1,0 +1,38 @@
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.exe.config
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.exe
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.pdb
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\bin\Debug\Figures.dll
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\bin\Debug\Figures.pdb
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.AssemblyReference.cache
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\obj\Debug\Stage_2.FormMain.resources
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.GenerateResource.cache
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.CoreCompileInputs.cache
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.CopyComplete
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\obj\Debug\ShapePainter.exe
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter\obj\Debug\ShapePainter.pdb
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.exe.config
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.exe
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.pdb
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\Figures.dll
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\Figures.pdb
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.AssemblyReference.cache
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage_2.FormMain.resources
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.GenerateResource.cache
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.CoreCompileInputs.cache
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.CopyComplete
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\ShapePainter.exe
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\ShapePainter.pdb
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.exe.config
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.exe
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\ShapePainter.pdb
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\Figures.dll
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\bin\Debug\Figures.pdb
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.AssemblyReference.cache
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage_2.FormMain.resources
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.GenerateResource.cache
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.CoreCompileInputs.cache
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\Stage2.csproj.CopyComplete
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\ShapePainter.exe
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter\obj\Debug\ShapePainter.pdb

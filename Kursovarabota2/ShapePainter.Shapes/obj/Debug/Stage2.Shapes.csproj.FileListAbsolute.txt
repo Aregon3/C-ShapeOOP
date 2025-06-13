@@ -1,0 +1,18 @@
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter.Shapes\bin\Debug\Figures.dll
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter.Shapes\bin\Debug\Figures.pdb
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Stage2.Shapes.csproj.AssemblyReference.cache
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Stage2.Shapes.csproj.CoreCompileInputs.cache
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Figures.dll
+D:\Downloads\Kursovarabota2 (1)\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Figures.pdb
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\bin\Debug\Figures.dll
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\bin\Debug\Figures.pdb
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Stage2.Shapes.csproj.AssemblyReference.cache
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Stage2.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Figures.dll
+C:\Users\LenovoP50\Downloads\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Figures.pdb
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\bin\Debug\Figures.dll
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\bin\Debug\Figures.pdb
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Stage2.Shapes.csproj.AssemblyReference.cache
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Stage2.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Figures.dll
+C:\Users\durot\OneDrive\Desktop\flash\Universitet\Kursovarabota3\Kursovarabota2\ShapePainter.Shapes\obj\Debug\Figures.pdb
